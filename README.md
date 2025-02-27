@@ -1,49 +1,42 @@
-Advance MKV Tool
+# Advance MKV Tool
 
-Introduction
+## Introduction
 
-Advance MKV Tool is a powerful and versatile application designed for managing and modifying MKV, MP4, and other media files. Whether you need to retag, remux, or re-edit your media files, this tool provides an all-in-one solution with a user-friendly interface.
+**Advance MKV Tool** is a powerful and versatile application designed for managing and modifying MKV, MP4, and other media files. Whether you need to retag, remux, or re-edit your media files, this tool provides an all-in-one solution with a user-friendly interface.
 
-Features
+## Features
 
-Retagging: Modify metadata tags for MKV, MP4, and other formats.
+- **Retagging:** Modify metadata tags for MKV, MP4, and other formats.
+- **Remuxing:** Change container formats without re-encoding.// will update soon
+- **Re-editing:** Modify video/audio streams, add/remove subtitles, and more.
+- **Batch Processing:** Process multiple files at once to save time.
+- **Fast & Efficient:** Uses optimized processing techniques to minimize conversion times.
+- **Support for Multiple Formats:** Works with MKV, MP4, AVI, and more.
 
-Remuxing: Change container formats without re-encoding. // will add soon
+## Installation
 
-Re-editing: Modify video/audio streams, add/remove subtitles, and more.
+### Windows
 
-Batch Processing: Process multiple files at once to save time.
+1. Download the latest version from the [releases page](#).
+2. Extract the package and run `AdvanceMKVTool.exe`.
 
-Fast & Efficient: Uses optimized processing techniques to minimize conversion times.
+## Usage
 
-Support for Multiple Formats: Works with MKV, MP4, AVI, and more.
+### GUI Mode
 
-Installation
+- Open the application and select a media file.
+- Choose the desired operations (retag, remux, re-edit, etc.).
+- Click "Process" to apply changes.
 
-Windows
-
-Download the latest version from the releases page.
-
-Extract the package and run AdvanceMKVTool.exe.
-
-Usage
-
-GUI Mode
-
-Open the application and select a media file.
-
-Choose the desired operations (retag, remux, re-edit, etc.).
-
-Click "Process" to apply changes.
-
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Support
+## Support
 
-For any issues or feature requests, please open an issue on GitHub.
+For any issues or feature requests, please open an [issue](#) on GitHub.
+
