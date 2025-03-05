@@ -31,6 +31,10 @@
 - Choose the desired operations (retag, remux, re-edit, etc.).
 - Click "Process" to apply changes.
 
+### Activation Code
+
+To get the activation code use this bot - https://t.me/Advancemkvtool_bot
+
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
